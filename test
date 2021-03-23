@@ -1,0 +1,19 @@
+  
+[{"Subject: ":"English","ExamName: ":Quarterly,"Mark: ":"100","Total":"100","PartA":"20","PartB":"20","PartC":"60"},
+{ Subject: 'Science', ExamName: 'Quartely', Mark: 100,Total:'100',PartA:'20',PartB:'20',Partc:'60' },
+    { Subject: 'Tamil', ExamName: 'Quartely', Mark: 100 ,Total:'100',PartA:'20',PartB:'20',Partc:'60'},
+    { Subject: 'social', ExamName: 'Quartely', Mark: 100,Total:'100',PartA:'20',PartB:'20',Partc:'60' },
+    { Subject: 'english', ExamName: 'Quartely', Mark: 100,Total:'100',PartA:'20',PartB:'20',Partc:'60' },
+    { Subject: 'Maths', ExamName: 'midterm', Mark: 50 ,Total:'50',PartA:'10',PartB:'15',Partc:'25'},
+    { Subject: 'Science', ExamName: 'midterm', Mark: 50,Total:'50',PartA:'10',PartB:'15',Partc:'25' },
+    { Subject: 'Tamil', ExamName: 'midterm', Mark: 50 ,Total:'50',PartA:'10',PartB:'15',Partc:'25'},
+    { Subject: 'social', ExamName: 'midterm', Mark: 50 ,Total:'50',PartA:'10',PartB:'15',Partc:'25'},
+    { Subject: 'english', ExamName: 'midterm', Mark: 50,Total:'50',PartA:'10',PartB:'15',Partc:'25' },
+    { Subject: 'Maths', ExamName: 'Quartely', Mark: 100 ,Total:'100',PartA:'20',PartB:'20',Partc:'60'},
+    { Subject: 'Science', ExamName: 'halfyearly', Mark: 100 ,Total:'100',PartA:'20',PartB:'20',Partc:'60'},
+    { Subject: 'Tamil', ExamName: 'halfyearly', Mark: 100,Total:'100',PartA:'20',PartB:'20',Partc:'60' },
+    { Subject: 'social', ExamName: 'halfyearly', Mark: 100,Total:'100',PartA:'20',PartB:'20',Partc:'60' },
+    { Subject: 'english', ExamName: 'halfyearly', Mark: 100,Total:'100',PartA:'20',PartB:'20',Partc:'60' },
+    
+    
+]
